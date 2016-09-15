@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.app.mirko.ayrtonthemagic" >
+    <uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ayrtoniconhelmet"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+
+        <activity
+            android:name="com.app.mirko.ayrtonthemagic.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.app.mirko.ayrtonthemagic.SettingsActivity"
+            android:label="@string/title_activity_settings"
+            android:parentActivityName="com.app.mirko.ayrtonthemagic.MainActivity"
+            android:theme="@style/AppTheme.CustomTheme" >
+        </activity>
+        <activity
+            android:name="com.app.mirko.ayrtonthemagic.morte"
+            android:label="@string/title_activity_morte"
+            android:theme="@style/AppTheme" >
+        </activity>
+        <activity
+            android:name="com.app.mirko.ayrtonthemagic.Social"
+            android:label="@string/title_activity_social"
+            android:parentActivityName="com.app.mirko.ayrtonthemagic.MainActivity"
+            android:theme="@style/AppTheme" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.app.mirko.ayrtonthemagic.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.app.mirko.ayrtonthemagic.venerdi"
+            android:label="@string/title_activity_venerdi"
+            android:parentActivityName="com.app.mirko.ayrtonthemagic.MainActivity"
+            android:theme="@style/AppTheme" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.app.mirko.ayrtonthemagic.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.app.mirko.ayrtonthemagic.sabato"
+            android:label="@string/title_activity_sabato"
+            android:parentActivityName="com.app.mirko.ayrtonthemagic.MainActivity"
+            android:theme="@style/AppTheme" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.app.mirko.ayrtonthemagic.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.app.mirko.ayrtonthemagic.domenica"
+            android:label="@string/title_activity_domenica"
+            android:parentActivityName="com.app.mirko.ayrtonthemagic.MainActivity"
+            android:theme="@style/AppTheme" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.app.mirko.ayrtonthemagic.MainActivity" />
+        </activity>
+    </application>
+
+</manifest>
