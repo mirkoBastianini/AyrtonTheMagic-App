@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Home" android:id="@+id/home" android:icon="@android:drawable/ic_menu_send">
+
+    </item>
+    <item android:title="@string/pilota">
+        <menu>
+            <item android:id="@+id/biografia" android:icon="@android:drawable/ic_menu_send"
+                android:title="@string/biografia" />
+            <item android:id="@+id/leauto" android:icon="@android:drawable/ic_menu_send"
+                android:title="@string/auto" />
+            <item android:id="@+id/sennavsprost" android:icon="@android:drawable/ic_menu_send"
+                android:title="@string/sennaVsProst" />
+            <item android:id="@+id/gare" android:icon="@android:drawable/ic_menu_send"
+                android:title="@string/daricordare" />
+            <item android:id="@+id/alfabeto" android:icon="@android:drawable/ic_menu_send"
+                android:title="@string/alfabeto" />
+
+            <item android:id="@+id/morteAyrton" android:icon="@android:drawable/ic_menu_send"
+                android:title="@string/morte" />
+        </menu>
+    </item>
+
+    <item android:title="@string/man">
+        <menu>
+            <item android:id="@+id/frasidette" android:icon="@android:drawable/ic_menu_send"
+                android:title="@string/frasidette" />
+            <item android:id="@+id/diconodilui" android:icon="@android:drawable/ic_menu_send"
+                android:title="@string/dicono" />
+            <item android:id="@+id/brasiliani" android:icon="@android:drawable/ic_menu_send"
+                android:title="@string/brasiliani" />
+            <item android:id="@+id/fondazione" android:icon="@android:drawable/ic_menu_send"
+                android:title="@string/fondazione" />
+            <item android:id="@+id/massimo" android:icon="@android:drawable/ic_menu_send"
+                android:title="@string/massimo" />
+            <item android:id="@+id/orsi" android:icon="@android:drawable/ic_menu_send"
+                android:title="@string/angelo" />
+            <item android:id="@+id/comas" android:icon="@android:drawable/ic_menu_send"
+                android:title="@string/comas" />
+            <item android:id="@+id/fede" android:icon="@android:drawable/ic_menu_send"
+                android:title="@string/dio" />
+            <item android:id="@+id/scherzi" android:icon="@android:drawable/ic_menu_send"
+                android:title="@string/scherzi" />
+            <item android:id="@+id/amori" android:icon="@android:drawable/ic_menu_send"
+                android:title="@string/amori" />
+        </menu>
+    </item>
+    <item android:title="@string/rememberA">
+        <menu>
+            <item android:id="@+id/film" android:icon="@android:drawable/ic_menu_send"
+                android:title="@string/film" />
+            <item android:id="@+id/ayrton" android:icon="@android:drawable/ic_menu_send"
+                android:title="@string/canzone" />
+            <item android:id="@+id/remember" android:icon="@android:drawable/ic_menu_send"
+                android:title="@string/remember" />
+            <item android:id="@+id/extremespeed" android:icon="@android:drawable/ic_menu_send"
+                android:title="@string/extreme" />
+            <item android:id="@+id/twitter" android:icon="@android:drawable/ic_menu_send"
+                android:title="@string/account" />
+            <item android:id="@+id/google" android:icon="@android:drawable/ic_menu_send"
+                android:title="@string/doodle" />
+            <item android:id="@+id/mclare" android:icon="@android:drawable/ic_menu_send"
+                android:title="@string/perfect" />
+            <item android:id="@+id/week" android:icon="@android:drawable/ic_menu_send"
+                android:title="@string/week" />
+            <item android:id="@+id/f1" android:icon="@android:drawable/ic_menu_send"
+                android:title="@string/brasile" />
+            <item android:id="@+id/ifonly" android:icon="@android:drawable/ic_menu_send"
+                android:title="@string/ifonly" />
+            <item android:id="@+id/imola" android:icon="@android:drawable/ic_menu_send"
+                android:title="@string/imola" />
+        </menu>
+    </item>
+    <item android:title="@string/ioelui">
+        <menu>
+            <item android:id="@+id/perchesito" android:icon="@android:drawable/ic_menu_send"
+                android:title="@string/ioeayrton" />
+
+            <item android:id="@+id/speciali" android:icon="@android:drawable/ic_menu_send"
+                android:title="@string/duespeciali" />
+
+        </menu>
+    </item>
+
+
+    <item android:title="Copyright Mirko Bastianini 2015" android:icon="@drawable/ic_action_toggle_star"></item>
+
+
+
+    
+</menu>
+

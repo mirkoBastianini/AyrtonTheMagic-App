@@ -1,0 +1,833 @@
+<resources>
+    <string name="app_name">Ayrton the Magic</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_social">Social</string>
+    <string name="action_settings">Info</string>
+    <string name="title_activity_settings">Info</string>
+    <string name="title_activity_social">Social</string>
+    <string name="link"><a href="http://www.ayrtonthemagic.com">www.ayrtonthemagic.com</a></string>
+    <string name="link1"><a href="http://www.mirkobastianini.com">www.mirkobastianini.com</a></string>
+    <string name="link12"><a href="https://www.facebook.com/ayrtonthemagic">www.facebook.com/ayrtonthemagic</a></string>
+    <string name="title_activity_morte">Ayrton The Magic</string>
+    <string name="title_activity_venerdi">Friday 29 April 1994</string>
+    <string name="title_activity_sabato">Saturday 30 April 1994</string>
+    <string name="title_activity_domenica">Sunday 1 May 1994</string>
+    <string name="morte">From man to Legend...</string>
+    <string name="alfabeto">Ayrton\'s alphabet</string>
+    <string name="amori">Ayrton\'s lovers</string>
+    <string name="angelo">Ayrton and Angelo</string>
+    <string name="auto">Ayrton\'s cars</string>
+    <string name="brasile">F1 2014 Brasil</string>
+    <string name="brasiliani">Brasilians and Ayrton </string>
+    <string name="canzone">Ayrton - Dalla and Montevecchi</string>
+    <string name="comas">Ayrton and Erik Comas</string>
+    <string name="dicono">Words about him</string>
+    <string name="dio">The faith in God</string>
+    <string name="duespeciali">Two special people</string>
+    <string name="extreme">Extreme Speed - Gran Turismo 6</string>
+    <string name="film">Senna - the film</string>
+    <string name="fondazione">A.S. Foundation</string>
+    <string name="frasidette">He said</string>
+    <string name="daricordare">Races to remember</string>
+    <string name="doodle">Google Doodle</string>
+    <string name="ifonly">If only</string>
+    <string name="imola">Imola</string>
+    <string name="benvenuto">Welcome on the official app related to www.ayrtonthemagic.com!</string>
+    <string name="ioeayrton">Io and Ayrton</string>
+    <string name="massimo">Ayrton and Massimo</string>
+    <string name="perfect">Perfect Lap</string>
+    <string name="remember">Remember Ayrton</string>
+    <string name="scherzi">Jokes of Berger and Dennis</string>
+    <string name="sennaVsProst">Senna vs Prost</string>
+    <string name="biografia">Biography</string>
+    <string name="account">Ayrton\'s account</string>
+    <string name="week">Ayrton\'s week</string>
+
+    <string name="pilota">Ayrton, the driver</string>
+    <string name="man">Beco, the man</string>
+    <string name="rememberA">Remember Ayrton</string>
+    <string name="ioelui">Ayrton and I</string>
+
+    <string name="diconoa">Various</string>
+    <string name="diconob">Alain Prost</string>
+    <string name="diconoc">Enzo ferrari</string>
+    <string name="diconod">Luca di Montezemolo</string>
+    <string name="diconoe">Nelson Piquet</string>
+    <string name="diconof">Frank Williams</string>
+    <string name="diconog">Jackie Stewart</string>
+    <string name="diconoh">Ron Dennis</string>
+    <string name="diconoi">Michael Schumacher</string>
+
+    <string name="frasia">Values of life</string>
+    <string name="frasib">The relationship with the risk</string>
+    <string name="frasic">Competition, speed and victory</string>
+    <string name="frasid">Alain Prost and J.M. Balestre</string>
+    <string name="frasie">Style of driving</string>
+    <string name="frasif">Past, future and dreams</string>
+    <string name="frasig">Cars and team</string>
+    <string name="frasih">Past and emotions</string>
+
+    <string name="racea">Monaco 1984</string>
+    <string name="raceb">Portugal 1985</string>
+    <string name="racec">Japan 1988</string>
+    <string name="raced">Japan 1989</string>
+    <string name="racee">Japan 1990</string>
+    <string name="racef">Brasil 1991</string>
+    <string name="raceg">Europe 1993</string>
+
+    <string name="exitquestion">Exit application?</string>
+    <string name="exitconf">Click to exit</string>
+    <string name="exityes">Yes</string>
+    <string name="exitno">No</string>
+
+    <string name="domenica1">Ayrton arrives early to the circuit and here he meets his great friend, Gerhard Berger, with which he starts a short conversation about safety on the track: they both think that hasn’t been done enough to maintain security. Something will change absolutely from the next Gran Prix because it\'s not possible to lose a human life in this way. 
+
+He speaks a long time also with Niki Lauda; Ayrton talks again about safety on the track with him.</string>
+
+    <string name="domenica2">02:00 pm o’clock: the race is just begun when the first collision happens; Letho\'s car doesn’t start, and Pedro Lamy isn’t unable to avoid the impact. Many parts of car injure some spectators in the stands. The Safety Car makes 5 laps on track, while the circuit is cleaned from the debris of the accident. 
+\n\n\
+When the Safety goes into the pits, drivers can start over their race. Ayrton is in the lead and Schumacher follows him. It looks like a race without joy and where maybe no one really want to run, but despite this, the circus goes on.
+                        </string>
+    <string name="domenica3">Ayrton passes from the start by accelerating to the maximum and starts the seventh lap; then he sees the Tamburello corner in front of him, a simple curve known in detail by the Brazilian. It’s 02:17 pm o’clock and Ayrton prepares to steer, but something goes wrong: the steering wheel is not responding to his commands. Desperately he tries to turn on left, by moving his head, his body, but nothing can correct that damn straight trajectory.
+\n\n
+Estimated speed of entry into the curve: 307 Km/h. Estimated speed of the impact: 216 Km\/h.</string>
+    <string name="domenica4">A second and three tenths: an eternity. The time it takes to try to steer, to curb, to raise his hands to his chest, to close his eyes, maybe to ask God to be near him. 
+
+                        </string>
+    <string name="domenica5">The story is always the same: Sid Watkins arrives on track followed by Giuseppe la Piana and his medical staff, red flag. 
+                        </string>
+    <string name="domenica6">
+      The gravity of the situation is clear for everyone, thus they decide to land the helicopter on track. Ayrton is extracted from the cockpit, his helmet is removed and first aid maneuvers are practiced. Sid Watkins remembers this eventin a posthumous interview: 
+      \n\n
+      "I\'m not religious, but when we went by Ayrton, we pulled him out and took off his helmet. There, he sighed. I had the feeling that, at that moment, his soul had flown in the sky." 
+
+    </string>
+
+    <string name="domenica7">The champion that everyone believed immortal was gone.</string>
+
+    <string name="morte1">I want to tell you about the days after the death of Ayrton in a specific section. You can go through the Imola 1994 Grand Prix moments by clicking on buttons below.\n\n
+        Good navigation!</string>
+    <string name="sabato1">After the crash of Rubens Barrichello, twenty-seven drivers are contending for the twenty-six seats available on the grid; two of these are David Brabham and Roland Ratzenberger, who drive Simtek Ford cars, which have the lowest performances and the fight to avoid the last place, that would not give the right to take part in the Grand Prix, is close to these two drivers. 
+\n\n
+The accident of the previous day, even if it ended without serious consequences, left everyone very shocked: the absurd FIA’s regulation of this year remains to be tested. </string>
+    <string name="sabato2">Today, as Friday, the sun shines on the Imola circuit and on the helmet of Roland Ratzenberger, while he\'s getting into his Simtek. 
+Before mounting in the car, in the pits, he repeats several times to his mechanics: "I have to keep control" . 
+\n\n
+On the track, in the five rounds preceding the fatal one, he commits several errors: a contact with Johnny Herbert\'s Lotus, and above all, in his fifth lap, he goes off the track at the Mineral Water chicane; however, he manages to control his vehicle and to close the lap by stopping the chronometer at 1.27.584, which earned him the twenty-sixth place.
+\n\n 
+Ratzenberger knows that he can do it better, so he decides to take a new lap. </string>
+    <string name="sabato3">After twenty minutes from the start of qualifications, Roland is on the straight track that precedes the Villeneuve curve at 300 km/h, an aerodynamic appendix comes off; he tries to steer, but the car is ungovernable. 
+\n\n
+The Austrian is proceeding about 316 km/h and only seven meters separate him from the wall; the Simtek undergoes a sharp deceleration that starts from the dizzying 301 km/h, then makes six spin and finally it stops destroyed in the middle of the track, about two hundred meters from the point of impact. </string>
+<string name="sabato4">The white and red helmet of the pilot is completely abandoned to itself; it dangles from side to side according to the evolution of the machine, then tilts left and remains motionless. 
+\n\n
+Silence falls on the track, on the stands, everywhere. The cockpit is intact, even if in the side there’s a huge hole, which shows a part of the pilot’s body. Roland Ratzenberger doesn’t move anymore.
+\n\n
+Sid Watkins arrives on the track, followed by Dr. Giuseppe Piana and his medical team. Twenty people around what remains of Simtek with their own specific purpose, while in a ridiculous silence the body of Rolandis extracted from the car and cardiac massageis practiced to him. Ratzenberger dies instantly because of a sudden deceleration, but if his death would be declared at the time, the grand prix will be suspended; a huge loss for the "circus". 
+ </string>
+<string name="sabato5">
+Ayrton has already earned his 65th pole position, and follows the accident from the monitors in the box, and his eyes betray the feelings that pass through it. He gets up and rubs his eyes. He remembers the phrase he said concerning the safety in Formula One: 
+\n\n
+"No one forced us to run, but we are not paid to die" 
+\n\n
+He cannot sit there without doing anything. He must know and have the situation under his control. 
+Ayrton exits from the pits, goes on a red Alfa Romeo tothe crash site; then he talks to Sid Watkins while his blue hat hides some tears. 
+\n\n
+It will be the doctor, many years later to remember that conversation: 
+\n\n
+"Ayrton was very upset and cried. So I said: Ayrton, listen to me, you\'ve already won three world titles, you\'re the fastest man in the world. -I knew he loved to fish and so i said: Why don’t you retire? I’ll retreat, me too,and we’ll go fishing together. And he answered: Sid, there are certain things over which we have no control. I can’t leave. I have to go on. " 
+\n\n
+After many years, (in particular after the Villenue\'s accident in Zolder), Formula One faces a death on the track.</string>
+
+ <string name="sabato6">It\'s\' evening and Ayrton comes back to the hotel, "the Castle", in San Pietro Terme. Suite 200 is his room. A shower is just what he wants, in order to reflect about the day just passed. Although his mind flies away, his body knows that he must put something in his stomach for the following day. 
+ 	\n\n
+Together with his Brazilian friends, his brother Leonardo and another friend, the photographer Angelo Orsi, he goes to the "Romagnola", a restaurant where Ayrton usually dines. The restaurant owner, Paolo Liverani, still retains the receipt.</string>
+
+<string name="sabato7">Ayrton is taken by his deep thoughts; the day is not sure of the lightest. The car goes wrong, his "Rubinho" had a serious accident, and now Ratzenberger is dead. Last but not least, his brother Leonardo had to come specially from Brazil to bring him a tape containing the registration of Adriane Galisteu, his girlfriend, while she’s speaking with an ex-boyfriend.</string>
+
+<string name="sabato8">Ayrton decides to return to the hotel alone. Walking can help him to dissolve those thoughts and those doubts that he never had before.
+	\n\n
+Now, in the room, in his bed he has a chance to rest for a few hours before the grand prix, but sleepiness doesn’t arrive easily. He decides it would be a nice gesture to expose a flag after the race in honor of the Austrian Roland Ratzenberger, if he wins. 
+\n\n
+The next day, that same flag, will be found soaked with Ayrton’s blood in his cockpit. </string>
+<string name="venerdi1">On Friday afternoon, April 29th, Ayrton begins the second free practice session; it is a windy day, and many drivers feel this discomfort.
+During the morning he obtains the fastest time of the track with 1: 21: 598 while Damon Hill, his teammate, is outstrip by more than a second. 
+\n\n
+The sun shines on the William\'s iron body in the pits and calm reigns all over. Ezio Zermiani, historical RAI senior reporter, walks with his microphone in front of the British pits, hunting for a statement of the Brazilian about the first two disastrous races of the season: a spin and a retreat; not just the results you would expect from a three times world champion. 
+\n\n
+The initial shyness towards the runway is dissolved almost immediately when various drivers start to spin, including Morbidelli, Martini and Bernard, while the wind blowing seems to be less annoying in comparison with the thrilling roar of engines. 
+Ayrton comes down the track and his car is nervous as his state of mind; during the morninghe doesn’t spare bad words for nobody, neither for his compatriot, Fittipaldi. 
+\n\n
+That young german boy, Schumacher, seems too good and his car is too perfect. Where everyone lose grip he goes without any kind of problem; Ayrton knows that it\'s impossible and that car has something different from the others. Maybe in the first year in which active suspension were banned, the Schumacher’s Benetton has some electronic device? No one wants to open an investigation. 
+\n\n
+Probably these are his thoughts while he closes his first round with 1: 22: 430. Then he exceeds the Tamburello corner at full speed when the attention of viewers moves to another part of the circuit: they heard a very bad sound which remembers a crash. 
+It\'s Rubens Barrichello, who finished the first two races of the season with a promising fourth and third place. </string>
+
+    <string name="venerdi2">It’s about 01:14 p.m. o’clock : Rubens drives too fast at the entrance of the Variante Bassa. Rated speed: 230 km/h. His car, aided by the failure of the left rear suspension, widens the trajectory and, when Barrichello tries to correct it, the car crashes above the row of tires. 
+\n\n
+Red flag: Sid Watkins, the FIA medical historian, gets on track and tries to remove the pilot from the cockpit. Rubens seems to have lost his senses and, with the help of the medical staff, he is transported to the emergency room of the circuit. 
+\n\n
+After just 15 minutes of free practice, all drivers are in the boxes to reflect on what is just happened. </string>
+
+    <string name="venerdi3">Ayrton Senna is shocked by the incident. Back to the Williams pits, he removes his helmet and runs to the emergency room of the circuit. Surrounded by reporters he says these exact words, which will be his last public statement: 
+\n\n
+"He\'s fine, he\'s fine, he took a scare. It \'a bit shocked but he\'s fine. There\'s nothing broken, he speaks normal ... " </string>
+
+    <string name="alfabeto1">A as Ayrton Senna da Silva, born in Sao Paulo, Brazil March 21, 1960, who becomes a legend too early, on 1 May 1994 at Imola, at the seventh lap of the San Marino Grand Prix. In 1983, during the British Formula 3 Championship (which he wins), Ayrton decides to take his mother\'s surname, “Senna”, which is less common than the paternal one “Da Silva”: a tribute to the figure of his mother, fundamental presence in his life. 
+\n\n
+B as Brazil, a troubled land of a thousand shades; if today it is picking up, twenty years ago, it was in a full crisis. Senna, he was the ambassador of Brazil almost unintentionally, its spontaneous flag, symbol of revenge for a generation, that thanks to him began proud to say "I\'m Brazilian". 
+\n\n
+C as the World Championships in Formula 1: Senna wins them three times, in the years 1988, 1990 and 1991, with the English team McLaren, which is always motorized by the Japanese Honda. 
+\n\n
+D as Lucio Dalla: as a good Emilian, the passion for cars flows into his blood as fuel in the cylinders, and he expresses it in some of his songs; "Nuvolari" (from the album "Cars" of 1976) is a cheerful and carefree photography of the races of last century, in order to celebrate, in particular, the Mantua pilot’s career. "The engine of 2000" (a song from the same album), is a vision or a hope for the future of men and cars, and the track "Ayrton" (from the album "Songs" of 1996) is a pure poem dedicated to the disappearance of the Brazilian driver : a delicate and a touching song.
+\n\n
+E as Estoril: on this circuit, in 1985, Senna wins for the first time in a match valid for the championship of Formula 1, running with his Lotus-Reanult, in his second year in the category (he debuts in the Brazilian GP 1984 on Toleman-Hart). Under a deluge similar to that universal, he wins by surpassing Michele Alboreto on his Ferrari, and all the others, from the third down, dubbed. Yes, you read that right: he dubbes everyone. </string>
+
+<string name="alfabeto2">F as Funerals. Before taking off to return the body of Senna in Brazil, the commander of the plane announces that he systematically refuses to follow the rules, according to which the coffin has to be placed in the hold. By removing some seats, the driver travels above the Atlantic accompanied by the prayers of passengers, before returning home. From the building of the Government of the State of São Paulo, then to the cemetery in Morumbi, a crowd, unprecedented for a sports man, never stops, never to pray, never to cry and to thank him for what he had done for his country. Five million of Brazilians give him their best homage. 
+\n\n
+G as Grida, which means “Shout”. Senna screams at the end of the Interlagos GP (Brazil) in 1991, where he wins with his McLaren-Honda having two gears missing and the gearbox failure after the race. All pilots had all three pedals and a real shift lever, and at most a dozen buttons for the set-up on the steering wheel, things that now seem to be prehistoric. 
+\n\n
+H as Honda. The Japanese house motoring sees good when someone points out a young Brazilian by the potential astonishing debut in Formula 1 in the mid-eighties; from that moment, the link between the pilot and the Eastern engineers is constant and profitable: it lasts since Ayrton’s last time with Lotus (1987) until his victories with McLaren (1988-1992). 
+\n\n
+I as Italy. There is also a bit of "beautiful country" in the career of Senna, and this is why he also speaks a good Italian. It all goes back to his beginning with the kart: after the Brazilian success in the national categories, a young Ayrton arrives in Italy to reach the team that hires him, the Dap, which runs the world championships of 1979 and 1980; he wins the title in both the occasions.   </string>
+
+<string name="alfabeto3">L as Lotus. It’s the English team among the most famous in the history of Formula 1, founded by Colin Chapman; the Lotus has written many pages of F1 in the sixties and eighties with its technological innovations and mechanic, its great pilots and technical genius. In 1985 the team takes with a three-year contract a young Brazilian, who makes his debut with Toleman in the previous year, and who brings to the English team important points. The boy promises very well and he is the so called Ayrton Senna. 
+\n\n
+M as McLaren, the team of the absolute consecration of Senna: six years -from 1988 to 1993-, three world titles for Ayrton, four for the team managed by Ron Dennis. It is among the rulers of Formula 1 in the late eighties - early nineties. Even a Ferrari fan pulls down his hat, or at least he should do that. 
+\n\n
+N as Vittoria Negata, which means Denied Victory. Senna could have already won in 1984, in his debut with Toleman, during the GP of Monaco. During the race, a real deluge comes down on the circuit and Ayrton is recovering one position after, by driving in the wet as no one. While he is in second position, the marshals decide to stop the race for safety reasons, so freezing positions just as Senna is about to pass the rider in front of him on the start-finish straight; the pilot who wins that race is Alain Prost with McLaren. 
+\n\n
+O as Obstructionism, which obvious one made by the FIA (International Automobile Federation) against Senna, who maybe is not politically correct but always direct in saying what he thinks, especially about driver safety or fairness of the Federation judgment itself on certain occasions. Memorable are the "barbs" between Senna and the then president of the FIA, Jean-Marie Balestre, during the pre-race meeting with all the drivers and the commissioners of the circuit. </string>
+
+<string name="alfabeto4">P as Alain Prost: four times world F1 champion between the eighties and nineties. Great talent, he is called "the Professor" for a reason: he is managed to not mistreat much his car and to use it the most in case of duels after the race, witha usually impeccable tactic. Too good and too different from Senna, who he will meet: the rivalry between them can hardly find comparisons even vaguely similar in the Formula 1 today. They hate each other, maybe, but always with respect, even when it seemed not so. 
+\n\n
+Q as Quasi Assente which means Almost Absent. During GP official practice on Saturday for the pole position, Senna is so concentrated as to seem absent, in meditation, on another world, almost always sitting for long minutes aboard his car, watching the times of the other drivers who are already on track and its data collected in the days before. Then, he wears his helmet and gloves in the last few minutes valid and, very often, he goes to conquer the pole position. 
+\n\n
+R as Record. Senna is the rider to have won more pole in relation to the Great Prix (65), the third driver for the number of victories (41) and 5 of them are consecutives on the same circuit ( he obtains 5 wins at Montecarlo). Ayrton\'s records remain unbeaten for a long time, until the arrival of the Ferrari team with Schumacher in the early 2000s; they have had to struggle a lot to beat them. 
+\n\n
+S as Senna Foundation. It is founded by Ayrton\'s family and is particularly cared by his sister Viviane, since his death; it is among the most important non-profit private entities in the world that deals with child care on many aspects: education, health, education, sports, culture. The foundation is maintained thanks to the image rights of the brands associated with the figure of Senna, which his family devolves entirely to the initiative. For some years, among the main contributors free of charge beneficiaries, there was Alain Prost.</string>
+
+<string name="alfabeto5">T as Talent. He is among the best drivers of modern Formula 1 races on a dry track; in races with the rain he is still considered as -The Talent-. Maybe Today some drivers have a good control of the car on a wet track, some above average, but they aren\'t quick and light like him: they will never be like Ayrton. 
+\n\n
+U as Humanity. Huge, overflowing, spontaneous, sincere, even more poignant when you consider the hectic world and cynical that it was becoming the Formula 1 in the years of Senna\'s career. Two examples to make the idea: in the cockpit of his Williams, after the latest incident at Imola in \'94, it is found an Austrian flag that Ayrton has hoped to wave after winning or, at least, after have reached the podium, to commemorate Roland Ratzenberger, the pilot who dies the previous day, during tests on board of his Simtek Ford. Since that incident, he is among the few to sustain until the last that the race cannot be disputed in respect of the Austrian colleague. 
+\n\n
+V like Victory. Winning is the only thing that Ayrton thinks while he is on the track; he says: "It is the will to win that pushes me to move forward. This is my greatest motivation, the desire to win is what pushes me to compete." and "I want to win all the time. The vision according to which the most important thing is to compete, is an absurdity." 
+\n\n
+Z as Uncle. "If you think I\'m good, wait until you see my nephew Bruno" says an encouraging uncle Ayrton about his nephew Bruno Senna. It is 1993, and in subsequent years Bruno has some exploits in the lower formulas, before arriving in Formula 1. But between technical and personal difficulties, the favorite nephew has never sparkled in the category, also thinking to stop running; he has recently found enthusiasm and some victories in the World Endurance Championship: viewing a Senna on a world podium makes always a certain effect. </string>
+
+    <string name="amori1">They meet when youn gand, for both of them, it has been the first important love story. In 1981, on the eve of the transfer to England, they get married, but the marriage between the blonde and charming Liliane and the shy Ayrton is tumultuous and troubled: it last sonly eight months.</string>
+
+    <string name="amori2">Ayrton meets Xuxa on live television during a Christmas program for children where, fresh World Champion, he is a guest. It is 1988. It’s an incredible sequence that has become a cult in Brazil: after the meeting, Xuxa kisses Senna wishing him good 1989. And then, good 1990, good 1991. It stops in 1993. Ayrton Senna dies in 1994. Brazilian consider that a sort of premonition.</string>
+
+    <string name="amori3">Adriane meets Ayrton Senna at the Brazilian Grand Prix 1993; then she becomes his girlfriend. The family of Ayrton will never accept her. </string>
+
+    <string name="amori4">he is married and Ayrton has an official girl, but this is not enough to keep them away. The top model remembers the champion in an interview : "I miss him every day. My Ayrton was handsome and positive, with his unbridled passion for life. He lived in great emotions. Even if we lived our love story secretly, it was very important for me. We met in 1990 in Milan, both guests at a parade of Gianni Versace: I was married, but my marriage was in crisis, he had an official woman. But the agreement between us was born soon, that same evening. For four years we chased each other in every corner of the world. We also made projects and sooner or later we would come out of the closet. " "In one day everything happened - still remembers Carol Alt - It was May 1, 1994, a damn Sunday.</string>
+
+<string name="amori5">Surely Ayrton is very desired by women. There are many rumors of some relationships between the champion and some models and actresses. Last but not least, Tina Turner has dedicated to him "Simply the best"...</string>
+
+<string name="angelo1">It\'s not a news speak about Ayrton as a person very reserved, especially when the topics of the conversation are about his affections and his friendships. In a time when it\'s not rare to see the Formula One drivers surrounded by girls and friends in the paddock, Ayrton is often alone.
+\n\n
+Many have judged this way of being; many people also scatter the rumor that he is homosexual. Nothing can be more wrong: he was a perfectionist and a professional. He divides work by human relationships. 
+</string>
+<string name="angelo2">A person with whom he has always had a special relationship is the Italian photographer Angelo Orsi, and I think it is one of the few true friendships that Ayrton had in the "circus". 
+\n\n
+Both are there, on May 1, 1994. It is at 14:17 o\'clock when the radio announces an accident at the Tamburello curve. Angelo, ready to capture every moment of the race with his Canon, takes his scooter and moves quickly on the back lane of the circuit until he arrives in the place of the incident; the photographer picks up his camera and shoots pictures after pictures, as if doing damn good his work is the only way to don\'t think. 
+\n\n
+The shots arrive to the office when the director of Autosprint, Carlo Cavicchi, gets a call from Angelo: the photographer asks that a photograph among many should be destroyed; it\'s depicting the face of Ayrton without his helmet. Cavicchi respects the decision of Orsi and eliminates the photograph. Meanwhile, on the circuit, the voice that the only photojournalist with the material about the accident is Angelo has already spread. Many offers arriving from everywhere, money that canchange the life of a simple photographer F1. 
+\n\n
+But Angelo does not betray the Friend ... the eternal Friend. 
+\n\n
+A testimony about Ayrton issued by Angelo for Sky: </string>
+
+    <string name="auto1">The Toleman TG184 was a Formula One racing car designed by Rory Byrne and Pat Symonds and was used by Toleman Motorsport during the majority 1984 Formula One season. It was first raced at the French Grand Prix at Dijon. Like its predecessor, the TG183B, the TG184 was powered by the 4cly turbocharged Hart 415T engine which produced approximately 600 bhp (447 kW; 608 PS) in 1984. 
+\n\n
+The car\'s potential was evident early on with a second place in only its second grand prix scored by then rookie driver Ayrton Senna in the rain affected Monaco Grand Prix. Senna, who started 13th, sliced through the field with precision until he caught and passed race leader Alain Prost (McLaren-TAG) just before the start/finish line on lap 32 as Clerk of Course Jacky Ickx showed the red flag to stop the race due to adverse conditions. However, the rules stated that positions must be taken from the lap prior to the flag being shown. This saw Prost win and Senna finish second with only half points given due to the race not going past 50% of the scheduled distance. It was widely perceived that Ickx had denied Senna, Toleman, and engine supplier Hart their first Grand Prix win, although the team later revealed that Senna\'s TG184 had suffered suspension damage which they estimated would only have lasted another 3 or 4 laps in any case.</string>
+
+<string name="auto2">he Lotus 97T was a Formula One racing car designed by G\érard Ducarouge and built by Team Lotus. A development of the Lotus 95T of 1984, it was designed for the 1985 Formula One season by French engineer G\érard Ducarouge. The 97T was powered by the turbocharged 1.5L Renault engine which produced approximately 900 bhp (671 kW; 912 PS) for races, while the Renault\'s special qualifying engines were reported to produce over 1,000 bhp (746 kW; 1,014 PS). Sponsorship came from John Player Special, French oil company Elf (the official oil of engine supplier Renault) and Olympus Cameras, while the car used Goodyear tyres. 
+\n\n
+The 97T was a simple design, but was robust and with the powerful Renault engines, it was fast. It used elements from the defunct Lotus 96T Indycar project in the aerodynamics with another innovative piece of Lotus design: an early form of bargeboards. These were placed between the front wheels and the side pods improving airflow around the side of the car. Ducarouge also got around the ban on the \'winglets\' seen on the rear wings of the 1984 cars by placing them instead on the rear edges of the side pods. 
+\n\n
+The 97T was very competitive during the season, taking 8 poles, 7 with Senna and 1 with De Angelis, and 3 wins. Senna\'s first was a brilliant performance in the Portuguese Grand Prix where he won by over a minute in monsoon conditions. His second came in the Belgian Grand Prix at Spa, held in wet/dry conditions. De Angelis added a third win (his 2nd and last win in F1, both for Lotus) at the San Marino Grand Prix after original winner Alain Prost (McLaren) was disqualified an hour after the race finished due to his out of fuel McLaren-TAG being 2 kg underweight. </string>
+
+<string name="auto3">The Lotus 98T was a development of the Lotus 97T of 1985. Of the four chassis built three were assigned to Ayrton Senna, now in his second year with Team Lotus, and one to team mate Johnny Dumfries. Designed by G\érard Ducarouge and Martin Ogilvie the chassis featured a lower monocoque than the 97T as a result of a regulation change stipulating a reduction in fuel capacity to 195 litres. The powertrain consisted of the new Renault EF15B turbo V6 engine driving through a six speed Hewland gearbox.
+\n\n
+The EF15B was to appear in two forms, the standard engine and the "D.P." engine which featured pneumatic valve springs for the first time. At the end of the season Renault introduced the revised EF15C which in addition to the D.P. valve gear also boasted common rail fuel injection and much revised water cooling through the cylinder head reducing the likelihood of pre-ignition (detonation). Power figures for this period of F1 history are largely speculative as most engine manufactures freely admitted that their test beds would not have a sufficient power rating to measure the 1.5 litre turbos output at above 4 bar boost. It is generally accepted that the Renault EF15 produced between 1,200 bhp (890 kW) and 1,300 bhp (970 kW) at 5.5 bar boost. 
+\n\n
+The gearbox came in two variants, a conventional five speed and a new six speed. The six speed was very much a development gearbox and was largely unreliable. While Senna opted to run only with the five speed, Dumfries was tasked with testing the six speed. Both gearboxes featured Hewland internals within a Lotus designed casing. 
+\n\n
+Other notable innovations of the 98T included a two-stage ride height adjustment, water injection through the intercoolers, an early form of barge board (also present on the 97T) and an advanced (for the time) fuel consumption micro computer. </string>
+
+<string name="auto4">The Lotus 99T was a Formula One car designed by G\érard Ducarouge for Lotus for use in the 1987 season. After Renault pulled out of F1 at the end of 1986, Lotus signed a deal with Honda for use of their hugely powerful turbocharged 1.5 Litre engine, although due to Honda\'s already existing deal with the Williams team allowing them exclusive use of the 1987 spec Honda RA167-E, Lotus had to make do with the Honda RA166-E spec engine from 1986. As part of the deal, Lotus agreed to sign Honda\'s test driver Satoru Nakajima as team mate to the mercurial Ayrton Senna. Nakajima, who many felt was only in F1 because of his nationality and because of Honda, brought little to the team other than Honda. 
+\n\n
+Lotus had also lost long time major sponsor John Player Special who were replaced by Camel as title sponsor, meaning the black cars with gold sign writing of the previous seasons were replaced by bright yellow with blue sign writing. 
+\n\n
+The 99T proved to be competitive in Senna\'s talented hands, the Brazilian won twice and scored six other podium finishes during the season. The car was very good around slow and bumpy circuits like Monaco and Detroit (where Senna won both his races that year). This helped him and the team to third in the drivers\' and constructors\' championship. Senna also provided a poignant footnote that season, as his win at the United States Grand Prix was the final ever Grand Prix win for the team that Colin Chapman made famous. Senna would move to McLaren for 1988 and would win his first World Drivers\' Championship. The season was also Senna\'s second worst in terms of pole positions, scoring only one in Round 2 at San Marino, his worst season being his rookie year in 1984 with Toleman.</string>
+
+<string name="auto5">The McLaren MP4/4 was a highly successful Formula 1 car that competed in the 1988 Formula One season. It was designed by American engineer Steve Nichols, with assistance from the team\'s Technical Director Gordon Murray. Nichols and Murray based the design on the lowline Brabham BT55, designed by Murray for the 1986 season when Murray was chief designer at Brabham. It is one of the most dominant Formula One cars ever built, winning all but one race and claiming all but one pole position in the 1988 season.
+\n\n
+The situation improved immensely when Ayrton Senna signed to partner Alain Prost (at Prost\'s suggestion) on a 3-year contract. The McLaren chassis, the Senna and Prost pairing, and finally the new Honda engines with 650 bhp (485 kW; 659 PS), looked like a formidable combination. However, there were concerns after the FIA introduced a fuel regulation for the turbo powered cars of 150 litres for a race distance. Honda\'s engine management team worked feverishly on the fuel consumption of the RA168-E which was especially built for the reduction in turbo boost from 4.0 bar to 2.5 bar rather than upgrading the 1987 spec engine, trying to improve it in order to avoid embarrassing late race retirements. The team also experimented with Active suspension in early testing but this was abandoned, and the car appeared \'as-is\' through the season, save for a few aerodynamic revisions. The car appeared at the first race in Brazil with very little pre-season testing at Imola only a week before the race, but Senna was able to put the car on pole position by half a second from surprise 2nd placed qualifier, Nigel Mansell driving the 600 bhp (447 kW; 608 PS), naturally aspirated Williams-Judd V8, with Prost qualifying 3rd.
+\n\n
+One feature of the MP4/4 was the driver\'s position. Due to the cars low-slung aerodynamics, and the FIA safety rule which stated that the top of a drivers\' helmet had to be below an imaginary straight line from the top of the roll bar to the top of the cowling, the drivers were required to be in a \'lay down\' or reclining position rather than the conventional upright seating position of Grand Prix cars until then. At first Prost objected to the new driving position, claiming it made the car uncomfortable to drive. However, the more he drove the MP4/4, the more he got used to the position. The car can be considered a pioneer as the current F1 cars (2014) all have the lay down driving position as standard. 
+\n\n
+Perhaps the most telling example of the MP4/4\'s emphatic domination was seen at San Marino in just the second race of the season. Senna and Prost both qualified the 5.040 km (3.131 mi) Imola circuit in the 1:27\'s (Senna 0.7 faster than Prost) while no other driver could get below 1:30. Third on the grid was defending World Champion Nelson Piquet in his Lotus which used the same Honda engines as McLaren. Piquet could only qualify in 1:30.500, 3.352 seconds slower than Senna and 2.581 slower than Prost. Despite both Piquet and Lotus telling the assembled media at Imola that they believed the Lotus 100T to be better aerodynamically, and therefore more fuel efficient than the MP4/4, both McLaren-Hondas had lapped the entire field, including 3rd placed Piquet, by lap 55 of the 60 lap race. The fast Imola circuit with its long periods of full throttle racing, was notoriously hard on fuel, especially for the turbo cars, and the McLarens lapping the field at the speed they did proved the aerodynamic efficiency of the car as well as the work Honda had undertaken to reduce fuel consumption. Prost and Senna\'s fastest laps (again the only drivers under 1:30) were 1.5 seconds faster than the next fastest, Gerhard Berger\'s Ferrari. Piquet\'s fastest lap was only the 9th fastest of the race, and some 2.8 seconds slower than Prost\'s fastest lap of 1:29.685. Both Prost and Senna lapped faster than Piquet had qualified, putting an exclamation mark on McLaren\'s dominant weekend. 
+\n\n
+The car retired only 4 times in the season - with Prost retiring at Silverstone during a very wet British Grand Prix (handling), and at Monza for the Italian Grand Prix (engine), along with Senna\'s infamous accidents at Monaco (where he totally dominated qualifying and by lap 66 of the race had built a 50 second lead over Prost who had been stuck for 54 laps behind Berger, only to throw it away by crashing into the barriers at Portier. As he lived in Monaco, Senna went back to his home and did not contact the team until the next day when he finally returned to the pits as the team was packing up, such was his disappointment), and Monza. Monaco was another example of McLaren\'s domination, Senna qualified 1.4 seconds faster than acknowledged Monaco master Prost, who himself was 1.2 seconds faster than third placed Gerhard Berger in his Ferrari.</string>
+
+<string name="auto6">The McLaren MP4/5 and its derived sister model the McLaren MP4/5B were Formula One racing cars designed by the McLaren Formula One team based in Woking, UK. The MP4/5 was loosely based on its 1988 predecessor, the all-conquering MP4/4. McLaren used the new car for half of the 1989 season using the Weismann Longitudinal Transmission from the MP4/4, and the MP4/5B with the Weismann Transverse Transmission for the last half of the 1989 season and for 1990, earning back to back drivers\' and constructors\' world titles with the type. The car was primarily designed by American engineer Steve Nichols who had designed both of its turbocharged predecessors, the MP4/3 and highly successful MP4/4.
+\n\n
+McLaren took 10 victories during the season, 6 for Ayrton Senna and 4 for Prost. This was at a time when the relationship between the two men was at breaking point, so their rivalry pushed the development of the car far ahead of the other teams as they tried to out-do each other (although theirs was a very public rivalry, both actually worked well together in testing and Prost believes neither held back any information). Although Senna won six races to Prost\'s four and usually finished ahead of the Frenchman in the races, accidents and car breakages meant that he had four fewer points-scoring finishes and finished 16 points behind his French rival in the championship. Senna and Prost\'s combined points total meant McLaren easily won their second straight constructors\' championship.
+\n\n
+Over the course of two seasons, the MP4/5 took 16 wins, 27 pole positions and 263 points before it was replaced by the MP4/6 for 1991.</string>
+
+<string name="auto7">The McLaren MP4/6 is a Formula One racecar that was designed by Neil Oatley for the 1991 F1 season. It was the first McLaren to be powered by a Honda V12 engine. The car was tested by Gerhard Berger in the off-season, but he was unimpressed with the new engine, feeling it was underpowered for what it was, especially compared to Honda\'s V10 engine in the previous year\'s car. When Ayrton Senna returned for pre-season testing, he knuckled down to try to solve the engine\'s problems. McLaren\'s domination in the early part of the year was mainly due to the lack of reliability of the Williams FW14. 
+\n\n
+The MP4/6 raced throughout 1991 with a manual "H" pattern gearbox. A semi-automatic transmission was tested during the season, but was never regarded as good enough to be used in a race. Ferrari and Williams were the only teams using semi-automatic gearboxes during 1991. This makes the MP4/6 the last Formula One car to win a World Championship, either drivers or constructors, using a manual transmission or a V12 engine. 
+\n\n
+Senna won the first four races of the season, in the USA, an emotional victory in Brazil, San Marino and Monaco before Williams and Nigel Mansell found their feet with their remarkable FW14 car, which dominated in the mid season. Consistent podium finishes throughout the year helped McLaren, but Senna insisted that Honda step up their engine development programme and demanded further improvements to the car before it was too late. Honda responded with an updated version of the V12 engine, while Oatley redesigned various features of the car, especially the sidepods and wings. Failed electronics and a botched pitstop scuppered Williams\' chances in Belgium and Portugal when in the lead allowing McLaren to take their fourth straight constructors\' championship and Senna his third and last drivers\' championship.</string>
+
+<string name="auto8">The Williams FW16 is a Formula One car designed by Adrian Newey for the British Williams team. The FW16 competed in the 1994 Formula One season and was used by British driver Damon Hill to finish runner-up in the 1994 World Drivers\' Championship. Its engine was a Renault RS6 3.5 V10. The team\'s main sponsor was Rothmans, replacing Camel Cigarettes and Canon used on the FW14 and FW15C. The car was designed around the major regulation changes that the FIA had introduced in the off-season, banning the various electronic devices that had been used by the front running cars during the preceding two seasons. 
+\n\n
+The FW16 was a passive evolution of the FW15C that had preceded it. It featured revised bodywork, including a low profile engine cover; taller sidepods; enclosed driveshaft; and an anhedral rear wing lower element, which was previously hinted at on the FW15C. In addition to these changes, the FW16 featured an innovative rear suspension wishbone design, an improved version of the Renault Sport Formula One engine (RS6), and a fuel valve to enable the ability for mid-race refuelling (a rule reintroduced for 1994). 
+\n\n
+The car was shown to have severe shortcomings at its debut. The FW16 lacked the active suspension and traction control of the previous season\'s FW15C, yet was itself an evolution of a chassis that had been designed for and depended on these systems (FW15C). It suffered from a very narrow driveability setup window that made it difficult to drive until the modifications to become the FW16B. This could be seen when Senna, pushing to close the gap between himself and Schumacher, spun out of second place during the Brazilian Grand Prix, and by the identical spins in practice by Hill and Senna at Aida, with Senna commenting on the Aida practice spin: "I can\'t explain it. I was actually in one of my b est positions at that corner when it went. It looked silly and stupid but better it happens today than tomorrow." 
+\n\n
+Senna commented as follows on the FW16 during early season testing:
+\n\n
+"I have a very negative feeling about driving the car and driving it on the limit and so on. Therefore I didn\'t have a single run or a single lap that I felt comfortable or reasonably confident."
+\n\n
+"I am uncomfortable in the car, it all feels wrong. We changed the seat and the wheel, but even so I was already asking for more room." "Going back to when we raced at Estoril last September (on testing the passive Williams at the same track 4 months later), it feels much more difficult. Some of that is down to the lack of electronic change. Also, the car has its own characteristics which I\'m not fully confident in yet. It makes you a lot more tense and that stresses you."</string>
+
+<string name="brasile1">In 2014, for the Grand Prix of Brazil’s Formula One, it was realized a video entirely dedicated to AyrtonSenna which retraces his career in a full lap at Interlagos. 
+\n\n
+Enjoy it: </string>
+<string name="brasilian1">The adoration by Brazilians for Ayrton Senna goes beyond sport: it is something comparable only to that towards the legendary Pel\è for football. Hundreds of thousands of people line up for hours to see for the last time the body of Senna and give their last respects before his funeral: it is a tribute to the one who is more than a three-time champion of the Formula 1 World. </string>
+
+<string name="brasiliani2">Whenever Ayrton waves the green and gold flag to celebrate his victories on the track, the Brazilians are happy to yet another triumph of a local hero who has managed to make a fortune abroad. 
+\n\n
+"It was a Brazilian who went abroad and did better than many Europeans" 
+\n\n
+tells Galvao Bueno, the voice of the F1 Brazilian television and a close friend of Senna. 
+His sudden and tragic death in San Marino 20 years ago has shaken the entire country. It is a hard blow to the pride of a generation of Brazilians grown waiting for hearing the national anthem of Brazil after another win of Senna on Sundays. 
+\n\n
+"His determination, perfectionism, sense of justice and patriotism of Ayrton, a very special person for Brazilians" 
+\n\n
+emphasizes Bruno Senna, who was just 10 years old when his uncle died on 1 May 1994. 
+\n\n
+"There is a great longing for unforgettable memories of his passes, his races and his revolutions in qualifying. But there is also the legacy of his personality off the track. He has had success in sports but at the same time was able to become an example also for his lifestyle and his principles. " 
+\n\n
+still declares Bruno. </string>
+<string name="brasiliani3">What happened in the days immediately after his death is an example of how he\'s important for all of Brazil. The government immediately declares three days of national mourning and the same honors of a head of state are been bestowed in Senna; when the news of his death spreads, during a football game, 60 thousand people in the stands begin to sing: "Ole, ole, ole, ole, Senna, Senna".</string>
+
+<string name="brasiliani4">When his body arrives from Italy, authorities estimate that there will be more than 5 million people into the streets of St. Paul to make their tribute to Senna\'s coffin; the television pictures shows fans in tears while waving the flags of Brazil at the passage of the funeral procession. 
+\n\n
+During the funeral of Ayrton, more than 200,000 people stand in line for hours only to stay about 10 seconds in front of the coffin for a final tribute. Many celebrities, athletes and government officials take part at the ceremony, including the Brazilian President Itamar Franco. 
+About 250,000 people follow the funeral procession to the cemetery with fellow riders Ruben Barrichello, Gerhard Berger, Damon Hill, Alain Prost, Emerson Fittipaldi and Jackie Stewart.</string>
+
+<string name="canzone1">“Il mio nome \è Ayrton, e faccio il pilota...”\n
+Paolo Montevecchi
+\n\n
+Lucio Dalla, a musician; Paolo Montevecchi, an artist. Two people who maybe not have much in common, except the fact to have written (Paolo) and interpreted (Lucio) a song dedicated to Ayrton Senna.
+\n\n
+The May 1, 1994, Paolo is at home with friends, and the television broadcasts images about the accident followed by an interview of the champion Ayrton, where he talks about his faith in God. Paolo is shocked: he returns home, almost without greeting his friends, takes his guitar, and the song we all know comes to life; the piece is ready in less than ten minutes, and it\'s called "the Circus". 
+\n\n
+Months pass, Paolo concludes the song arrangement, and in September 1994, he brings a tape recording to the study of Lucio Dalla, who reads the text written on the back of the box and decides to record the single in the album "Canzoni", changing the title of the piece in "Ayrton". 
+\n\n
+Very interesting is the interview of Paolo Montevecchi released on April 8, for the preparation of “Formula Passion”, in which is faithfully reported the story of the song written by him; you can find it here. 
+\n\n
+Below, the original text of the song with a video:</string>
+
+    <string name="comas1">Erik Gilbert Comas is now a former F1 driver and he is linked to Ayrton for a curious incident happened in 1992, in Belgium.
+We are in SPA, and during qualifying for the Belgian Grand Prix valid for the world championship F1 1992, Comas is violently slammed into the barriers in the second part of Blanchimont, by remaining unconscious for a few moments. 
+Ayrton Senna, aware of the severity of the accident, stops his car and rescues immediately the French driver, a big risk for his life, while other F1 drivers continue to race.</string>
+
+<string name="comas2">As chance would have it two years later at Imola, while Ayrton is fighting for his life, Erik Comas is halted to the box due to mechanical problems. He does not know that the race is stopped because of an accident, and so he goes out of the pits at great speed. 
+\n\n
+At the Tamburello corner he see Ayrton, the man who saved his life two year before, in a very bad state. It\'s not easy for Erik cannot do anything to save Ayrton\'s life.
+\n\n
+Erik Comas decides to not run more in F1. 
+\n\n
+He ends his career on opened cars in 1994 with the grand prix of Australia. </string>
+
+    <string name="dicono1">Ayrton had great talent and determination. He drived his car until its limits, even trying to make it do that which it was not able to do. One of the things that most haunts me is that we came to believe that we were the best because for three years were. The car of 1994, unfortunately, was not a good car. (Adrian Newey)
+Ayrton was a work of art: you cannot paint another Mona Lisa. I don’t know if he was the strongest of all time, for example because Schumacher has won more. But people have always felt his strength, his courage, intensity. He arrived exhausted at the finish because he gave everything, maybe a thing that lacks in Formula 1 today. He was not ashamed of his fatigue: in this was unique. (EmanuelePirro)
+\n\n
+Ayrton Senna is an incredible legend that will be remembered and admired forever. He had the rare quality of greatness. (Lewis Hamilton)
+\n\n
+About Senna, I remember the kindness and his simplicity that seemed almost shyness, in stark contrast to the Senna pilot, a fighter always determined to get the most. I always liked the way of running of Ayrton. As in all great champions in him there was always a huge desire to win, never tired of chasing perfection and trying to improve continuously, he was extraordinary in qualifying but also a great fighter in the race, always with a knife between his teeth. (Luca Cordero di Montezemolo)
+\n\n
+He was the best pilot who ever lived. (Niki Lauda)
+\n\n
+He was a "mentor", especially from the point of view of professionalism, not just for me. He showed everyone that you can keep working hard and without limits, also when you have already an incredible talent. (Valtteri Bottas)
+\n\n
+It was incredible his precision with engineers, taught me very much. There were however two Ayrton, one inside the car and another away from it: the first was fiery, relentless and focused; the second waskind, good and accurate. (David Coulthard)
+\n\n
+I felt as if I had left the Formula 1 again. After, I have never seen our sport in the same way. He was something huge, incredible. I think about him often. Now, apart from the anniversary of these days, you try not to talk about him much. But the thought remains. (Alain Prost)
+\n\n
+I have not seen another Ayrton yet. Probably Michael Schumacher was one of those who approached closer to him. But Schumacher drove with his head, Senna with his heart. Schumacher was one of the most complete drivers, Senna was more natural. (Martin Brundle)
+\n\n
+What was asked to pilots in the past decade is different compared to the 80s. Someone like Senna would not win nothing in modern F1. He was very fast but had no talent in terms of technical and mechanical. (Nelson Piquet Jr.)
+\n\n
+Senna says he believes in God ... He is probably so convinced to think of being immortal, otherwise would not do what he does. (Alain Prost)
+\n\n
+Senna was an inspiration and, although 20 years have passed, his spirit lives on in all the racing drivers. (Valentino Rossi)
+\n\n
+[Senna was] too emotionally charged. This was his limit: a great talent that is brought to overindulge and therefore, to make mistakes. If I had been a team manager, I would have chosen Prost. (Jackie Stewart)
+</string>
+    <string name="dicono2">Ayrton is a pilot from the immense qualities. To be honest, I cannot find any defect in him. (1988)
+\n\n
+The arrival of Ayrton forced me to change certain habits suddenly technical meetings became much longer, and it was not enough yet, because often, after dinner, Ayrton returns at the circuit to control the work of mechanics. (1988)
+\n\n
+He\'s a pilot without honor, it is not nice to fight with him. (1989)
+\n\n
+When I arrive in the morning he\'s already there.
+\n\n
+I am not prepared to fight with any irresponsible individuals who are not afraid to die; Ayrton has a problem: he thinks that he cannot die because he believes in God.
+\n\n
+The victory in the Championship is much more important for him than for me. Maybe it\'s the only thing that matters in his life; sure, he is a fool. As a man is worth nothing.
+\n\n
+In honor of Ayrton, I will not go up ever more on a car of Formula 1. He was the only one that I respected. (Alain did not keep his promise by doing the tester for McLaren)</string>
+
+    <string name="dicono3">The rising star is undoubtedly Ayrton Senna da Silva. Brazilian young and exhibitionist every time. He combines technical talent and courage.</string>
+
+<string name="dicono4">He was one of the greatest champions of all time, the best player of the last years, intelligent, meticulous and never satisfied in the development of the car, skilled in dealing with business.</string>
+
+<string name="dicono5">This is a bad news not only for sports, but also for our nation. There is no one at these levels in F1. He was the best driver, very determined, and this is really a bad loss.</string>
+
+<string name="dicono6">His loss is impossible to quantify, all those who knew him, in any circumstance, they realize that they have lost something very special, a wonderful person.
+\n\n
+All I can say about him is that Ayrton, the man, was genuinely better and more amazing than that who drove the car. A very smart guy that when he talked with you about business was able to consistently predict the developments of the conversation, how it would be ended. It was a challenge to treat with him as it was to his rivals try to beat him
+\n\n
+About Ayrton, I have never realized a dream: to see him fight with Schumacher, with different cars but with the same Renault engine, on the arc of a championship; if Ayrton had lived he would have won the championship 94. I am convinced; and in 95 Ayrton and Michael would have fought to the end, the last lap of the last race. And the final benefit would go to Senna.</string>
+
+<string name="dicono7">Senna was one of the greatest talents that has ever lived in motor racing.</string>
+
+<string name="dicono8">Ayrton Senna was an extraordinary pilot. His skill, cunning, subtlety and courage were of such magnitude that he has marked this generation of drivers.
+\n\n
+[When he went to Williams] It was as if he was loaned temporarily. It was what I felt, what he felt. There were no formal agreements, but he would be back. It was not an impossible thing. I think he would have been a long time in F1 and when, in the end, he would retire, he would do it on a McLaren. I am absolutely certain.
+\n\n
+Both [Senna and Prost] wanted to win, they both knew that our philosophy was providing to each pilot the same equipment and that we wanted to have the first two women. The competition within the team was fantastic for the team itself. Of course their personalities were very different and, inevitably, this led to some occasional friction.</string>
+
+<string name="dicono9">Thinking that I would never see Ayrton nor spoken to him. I procured a state of depression that lasted for two weeks.
+\n\n
+I know that, if he were here, it would not go well. (After winning his first title, Adelaide 1994)
+\n\n
+I think Ayrton would consider me as a rider with which in the future would have to confront. Between us there was some disagreement, but nothing more. And it\'s normal that an older champion, which boasts a consolidated position, wants to hold off a young emerging. And on the other hand I find it normal to react as I did. But I think that in recent times he had begun to accept me as I eventually I learned to know and to share some of his actions.
+\n\n
+Senna was the greatest. I am not seeking a victory for this reason, because I do not think I\'ll ever be at its height. (First of Monaco in 2000, launched towards the third title)</string>
+
+<string name="dio1">Ayrton Senna is the first and, maybe, the only driver to bring God on the track. 
+\n\n
+This choosing is not easy because when you talk about a topic as deep as faith, you open yourself a lot. You aren\'t giving an opinion on a tire compound or on a race gone bad: you are speaking about your personal life, you need courage. </string>
+
+<string name="dio2">Ayrton speaks for the first time of his faith after the winning of his first world title, releasing an interview on the plane returning from Japan. 
+\n\n
+"It\'s very difficult to talk about God, it\'s very difficult to hear him. I have had the privilege to have this experience. It\'s happened in the Grand Prix of Japan, in the last lap of the race. The lap that would give me finally the championship. I began to thank, thank, and I felt his presence. 
+I saw God, it was a special thing in my life, a huge sensation. It\'s a fact that I recorded in my memory and I carry within me. I think it\'s a privilege that few have or have had. "
+\n\n
+In more than one occasion his colleagues criticize Ayrton for this. In particular, there is a spinous situation between Senna and Prost after Suzuka 1989, where the French says that Ayrton is convinced he can drive in an extreme way because he believes that he could not hurt thanks to his faith in God.</string>
+
+<string name="dio3">Ayrton is very impressed by this statement of Prost and,in an interview with a British television, he says: 
+\n\n
+"Just because I believe in God and have faith in Him it does not mean that i am immortal or immune from the dangers, as has been said by someone. I\'m afraid of hurting me like anyone else, especially in Formula One, where the danger is constant. "
+\n\n
+Surely, Ayrton had a great faith, and here below there is the photo of his grave in the cemetery of Morubi, in Brazil: </string>
+
+<string name="dio4">Nada pode me separar do amor de Deus
+\n\n
+Nothing can separe me from the love of God</string>
+
+<string name="duespeciali1">Oh Yeah! 
+\n\n
+This page is for them: Francesca and Giovanna. Probably for you these two names are very common, but for me they are very important! 
+\n\n
+The tie that binds us is special and strong: we laughed, we joked, we had a fight ... well, we\'ve been through it all together! 
+\n\n
+It was April 2014 and, while celebrating Easter Monday, I told them that, on May 1, there would have been a big event at Imola to remember Ayrton. It’s a long trip from our houses (Rome - Imola), but it happened something special and unforgettable: they departed with me without any hesitation. 
+\n\n
+I can say that none of them is particularly passionate about cars, let alone then Formula One years \'80 -\'90. They did not know absolutely nothing of Ayrton Senna: nor who he was, nor what he had done; but they were ready to chase a dream of mine, by my side, without objections or questions. 
+\n\n
+They knew only that it was important for me to be there, at Imola, and that was enough. 
+\n\n
+They chased a dream with me.</string>
+
+    <string name="extreme1">The Sony has decided to pay tribute to Ayrton by creating a "free-download" DLC from the owners of the game Gran Turismo 6, with the collaboration of the Ayrton Senna foundation. 
+\n\n
+By installing this special content, you will have the chance to see new videos of the sample and to take part in automotive events driving the historic JPS Lotus 98T, or the first go-kart of the Brazilian. </string>
+
+<string name="extreme2">This synergy between the foundation Ayrton Senna and the Sony is definitely not a simple business relationship, but something deeper that does not expire in the banality of a video game.
+In the video below, the interesting tour of Sony in Brazil and the various stages of the development of the DLC. Twenty minutes well spent. </string>
+
+<string name="film1">Senna is a 2010 documentary directed by Asif Kapadia. 
+The film traces chronologically the entire career of the Brazilian driver Ayrton Senna, often showing new images, many of which are granted directly by the Senna family. 
+\n\n
+The film is screened for the first time on October 7, 2010 in Suzuka, during the Japanese Grand Prix 2010. In Italy, it\'s released in theaters on February 11, 2011, and on April 6, it\'s released on DVD and Blu-ray. </string>
+
+
+<string name="film2">Director: Asif Kapadia
+\n\n
+Cast: Ayrton Senna, Alain Prost, Frank Williams, Ron Dennis, Viviane Senna, Milton da Silva, Neide Senna, Jackie Stewart, Sid Watkins, Galvao Bueno, Reginaldo Leme, Gerhard Berger, Nelson Piquet, Nigel Mansell, Jean Marie Crossbows, Michael Schumacher, Bussunda, Rubens Barrichello, Luiz Fernando Lima, Damon Hill, Riccardo Patrese, Bernie Ecclestone.
+\n\n
+Distribution: Universal Italy
+\n\n
+Type: Documentary
+\n\n
+Time: 100
+\n\n
+Release Date: 11-02-2011</string>
+
+<string name="fondazione1">A few months before his death, Ayrton expresses to his sister the desire to do something concrete for his country, Brazil; he wants to give a real sign to all those people who worship him as a god: a sign of real and concrete trust to those people who have always been with him.</string>
+
+<string name="fondazione2">A phrase that he says during an interview on the economic and social condition of his country will always remain in the history: 
+\n\n
+"Rich people cannot live on an island surrounded by an ocean of poverty. We all breathe the same air. We have to give everyone a chance." 
+\n\n
+This desire becomes a reality few months after the death of Ayrton, with the foundation that bears his name, a private entity, founded by his sister Viviane Senna, which has one simple goal: give a chance to those who in life has never had one. 
+\n\n
+For those who wish to explore the world of the foundation, just have to click on image below: </string>
+
+<string name="frasi1">If a person has no more dreams, no longer has any reason to live. Dreaming is necessary, even if in the dream goes glimpsed reality. For me it is one of the principles of life.
+\n\n
+You can\'t change the world alone. But you can do your part to change it a bit. What I really do for poverty I\'ll never say. The F1 is a miserable thing compared to this tragedy.
+\n\n
+I\'m a privileged person, I always had a very good life. But all I got from the life i gained it with the commitment and the strong desire to achieve my goals, to win in life, not as a pilot. So let me tell you that whoever you are in life, whether you are at the lowest or higher level, you must have great strength and great determination and you have to face anything with great love and faith in God, and one day you will reach your goals and you will succeed.
+\n\n
+I have no idols. I admire the hard work, dedication and competence.
+\n\n
+Each person has his faith, his way of looking at life. Most of people refuse to talk about topics like these. For me is important to be at peace with ourselves. The way to find this balance is through the faith in God.
+\n\n
+Rich people can\'t live on an island surrounded by an ocean of poverty. We all breathe the same air. You have to give everyone a chance.
+\n\n
+If I did what I did, is because I had a great chance in my life. To grow up in the right way, to live well, enjoy good health, to learn a lot. And I have been helped, at the right times, to go in the right direction.
+\n\n
+The most important thing is to be yourself, not to let anyone hinder you only because someone wants you to be different. You have to be yourself. Many times you make mistakes because of your personality, your character or interference that you can find along the way. But you can just learn from your mistakes. And this is the main thing: use the mistakes to learn. I believe in the ability of concentrate depply in order to make progress and even more.
+\n\n
+Life is too short to have enemies.</string>
+
+    <string name="frasi2">There is a certain amount of danger in motor racing. So any time you go driving, testing or racing, you are exposed to some risks. There are calculated risks and there are unexpected situations that can happen, and you can already be gone away, it’s just in a fraction of a second. So you realise that....suddenly you\'re nobody. Suddenly you\'re nobody, and your life can be....can have an end, sudden.......This is your life......Either you face it as a professional, in a detached way, or you just give up, you just leave it and you don\'t do it anymore, really. I like too much what I do to give up, I can\'t stop doing it. It\'s part of my life.
+\n\n
+No one is immortal, the difference between the pilots and the common people is that we are more at risk. What can you do? We are exposed to risks. You could stop running ... and think you\'re safe, but then it can happen an accident on the street. I think that is part of life itself. The important thing is to increase the safety as much as possible, not only on the circuits, but also on the cars. Fortunately, I had a very solid car, designed very well, which saved my life. I have no choice. I run at full speed or I don\'t run at all.
+\n\n
+I think you can run to 300 Km/h by limiting the risk to a minimum. We should sit at a table with the representatives of the federation with the builders. We must engage men and money and find the best compromise between safety and spectacle. No one has ordered us to race in F1, but we are not paid to die.
+\n\n
+The cars get faster every day; the circuits remain the same and many are no longer suitable since some years.
+\n\n
+Remove all electronics was a big mistake, the cars are very fast and hard to drive. It will be a year with many accidents. (Winter test of 1994)
+\n\n
+There are three or four bumps at the Tamburello corner, and I hope it\'s been thought to do something ... (San Marino GP 1994)</string>
+
+<string name="frasi3">Running, compete is in my blood, it\'s part of me, it\'s part of my life; it has always been what I do and it comes before everything else.
+\n\n
+The push to be more competitive is something very exciting for me.
+\n\n
+It\'s strange. Just when I think I have gone as far as possible, I realize that I can go even further.
+\n\n
+I need to do something special. Every year someone wins a title. I want to do more.
+\n\n
+The important thing is to win everything, always.
+\n\n
+I want to win, always. The view that the most important thing is to compete is an absurdity.
+\n\n
+It\'s the thought to win that pushes me to keep going. This is my greatest motivation; the desire to win is what drives me to compete.
+\n\n
+I believe that every pilot thinks to be the best and thinks to be able to win all races.
+\n\n
+We all want to win and there is only one place for victory, only one number one.
+\n\n
+You think you have a limit, so you try to touch this limit. Something happens, and you can run a bit stronger. Thanks to the power of your mind, your determination, your instinct, and the experience as well, you can fly very high.</string>
+
+    <string name="frasi4">He\'s humanly incompatible with me, but I can\'t imagine my career without the stimulus represented by Alain.
+\n\n
+No one can doubt that Prost is a great driver; his results speak for himself; but there is nothing in common between us.
+\n\n
+It\'s clear that I have thought to leave, go home and not come here. I am a professional but I am also a human being, and my values of life are stronger than the desire to destroy them. That\'s why I am here today, I will run to the maximum, because all of us, all those who contribute, directly or indirectly, to motoring have the responsibilities towards of this universe of fans and the millions of viewers who are watching on television. We must be careful to not be used, avoid publicizing wrong values or misconceptions. Unfortunately, this things happen frequently. (After Suzuka 1989)
+\n\n
+Sure. That\'s right. I was not willing to let that guy coming from the curve in front of me. He just had to let me pass. I did not care if we would have collided. I pushed the machine thoroughly, he moved to the inside - and we collided. "Why cause the accident? Because I had been ruined by the system and this happens every time you try to do your job in a transparent and fair way, what i can do? Pull back and say, \'thank you, yes, thank you\'? It is clear that it is not possible! (After Suzuka 1990)
+\n\n
+I dedicate this victory to those who made me lose the World \'89 ... The races are done so, sometimes they end up right after the start, sometimes at six laps from the end. (Japan 1990)</string>
+
+<string name="frasi5">When I ran with the FF1600 I had some trouble driving. Driving with the FF2000 seemed much easier, lighter, and more natural. With the F3 Ralt I felt even better. I think this is very important: I am better as the power increases.
+\n\n
+Yes, I messed up a certain victory. But to compete is not just be up front in the lead throughout the race and get to the checkered flag. My style is different: I want to take every win for me. This is the real pleasure to race and win. If you do nothing but wait for the mistakes of others, it captures only a fraction of pleasure, and I\'m running for the pleasure of winning..
+\n\n
+Maybe I\'m a pilot of attack for being young, but this is not enough. An attacker does exceptional things 1 time on 10. A cool guy, calmer, will get results 4-5 out of 10 times.
+\n\n
+To compete in the car you must be cold, rational.
+\n\n
+So far I have done so many pole positions: in comparison to this figure, the fastest laps that I scored in the race are relatively few. This is why I think that not always push hard through out a Grand Prix is the right choice: this is the opposite of what some people think, that is, that I risk too much, constantly.
+\n\n
+I like street circuits because they force you to drive very clean, constantly with the maximum concentration.
+\n\n
+When you are under pressure, in a championship or in a race in particular, the one who knows how to combine aggressiveness and calculation will get the best result. You need a clear mind to understand when it\'s the right time to be aggressive and when to do the calculations. To win a World Cup you have to combine these two elements in the right doses, at the right time.</string>
+
+<string name="frasi6">I don\'t limit myself. I am 33 years old and I think I still have many things to do.
+\n\n
+I wish that in 1993 there were three Williams, one for me, one for Mansell, one for Prost.
+\n\n
+I really like to drive and I wish I could do more and to have no other concerns.
+\n\n
+My biggest wish was always to go faster than everyone, even than the clock did. I think with such a thought, sooner or later all the results will come as a result.
+\n\n
+I could never once stopped racing, have a future in F1, as have many of my colleagues. I have too many good things on the other side of my life to choose to stay always in F1.
+\n\n
+The reality is that I learned a lot. It must be so.
+\n\n
+When I was racing in the minor categories was pure "feeling", it was just a pleasure. Now everything is harder, much harder. There is much less room for fun in what I do.
+\n\n
+The marriage, children? Calm ... but for sure, at the right time, I will want children too.</string>
+
+<string name="frasi7">You\'ll never know how it feels when a driver wins. That helmet hides incomprehensible feelings.
+\n\n
+Whenever you train or you compete in a Grand Prix, it creates a lot of tension, as there are many responsibilities and risks, that help to create a stressful situation. But you learn to control yourself better, but never to the end.
+\n\n
+When a person is in a position of strength and enjoys credibility, there\'s no money that can buy this credibility - we can only win or lose.
+\n\n
+Up to that my passion for my profession survives, my dream will survive. The day that this passion begin to weaken, my dream will end. Formula One is a world of strong emotions and personality where the weak do not survive.
+\n\n
+It is not only a world title hunt: a passion is much more extensive. It requires an enormous concentration.</string>
+
+<string name="frasi8">It is not a racing driver, is an idiot. (Referred to Irvine, Japan, 1993)
+\n\n
+If you earn much is because you merit and you\'re worth much.
+\n\n
+If i am obsessive, i am so in a positive way. I have a strong natural urge, but it is not harmful is not a problem.
+\n\n
+It\'s a little hard to forge a relationship with a person of the opposite sex. Especially if you\'re young and you make a life that attracts girls.
+</string>
+
+<string name="gare1">This is the year of Formula One debut of Ayrton: in torrential rain, he brings his Toleman up to an incredible second place surpassing the best drivers, including Niki Lauda and KekeRosberg. In each lap the Brazilian recovers several seconds on the winner Prost; then, the race was interrupted because of the plenty of water on track.</string>
+
+  <string name="gare2">After winning the pole position, Ayrton dominated the race at Estoril under a deluge, and in this way, he wins the first race of his extraordinary career in Formula 1.</string>
+
+<string name="gare3">At the start, Ayrton did turn off the engine thus finishing at the fourteenth place, while Prost is at the command followed by Berger and Capelli. Meanwhile, it has begun to rain and Ayrton, after a great comeback, surpasses Prost during the 28th passage; the Brazilian is much faster than him: he wins the race and the world title.</string>
+
+<string name="gare4"></string>
+
+<string name="gare5">The rivalry between Alain Prost and Ayrton Senna is very high, even if they are teammates. They play for the title and, during the penultimate round of the season tension leads them to a duel over the regulation: at six laps from the end, Ayrton tries to overtake the French, but they clash and their cars stop. Commissioners convince the Brazilian to continue the race, and finally he wins; but when it seemed he had took the victory, the Federation disqualifies him for having cut the chicane and Prost is world champion.</string>
+
+<string name="gare6">It is the same thing of the previous year, but with the reversed roles: if Alain Prost goes out of the point-zone, Ayrton becomes mathematically world champion. At the start, the Brazilian hits Prost, taking him off the track: Ayrton is the new world champion. After one year from the victory, in an interview, he will admit the guilt of his gesture.</string>
+
+<string name="gare7">At the Interlagos circuit, in his native land, Ayrton is determined to win; at the start, he keeps the first position. During the 60th passage, however, it happens an unexpected situation: the change marches locks in the fourth gear. In the remaining laps the car of Ayrton continues to lose all gears except the sixth. He continues to drive until the end of the race with the gearbox locked, but this doesn’t prevent him to win; the great physical effort does not allow him to go out alone from his car.</string>
+
+<string name="gare8">This year is not good for the Brazilian: the McLaren can\'t compete with the active suspension of Williams, which instead, thanks to the regulation of that year, is manage to dominate the season. Ayrton starts the race by the fourth place at Donington Park, when his favorite situation presents itself: it starts to rain. While everyone decelerates, the Brazilian finishes the race by surpassing totally every opponent during the last laps, except one. This race will be remembered.</string>
+
+<string name="google1">Since several years, Google creates his famous “Doodles”: its logo is changed for a whole day with a picture that makes tribute to a person or an event that happened that day. 
+\n\n
+The March 21, 2014, Google has decided to pay tribute to the “virtual” 54 years of the champion with this doodle:</string>
+
+<string name="ifonly1">This is a very beautiful work made by Oleg Konin for the magazine Autosprint after the death of Ayrton Senna. The painting is titled "If Only ..." 
+If things had gone differently, how would have been the life and the career of Ayrton Senna? </string>
+    <string name="ifonly2"></string>
+
+<string name="ifonly3"></string>
+
+ <string name="ifonly4"></string>
+
+<string name="ifonly5"></string>
+
+    <string name="imola1">The monument to Ayrton Senna, placed near the Tamburello curve inside the Enzo and Dino Ferrari Autodrome, has become a place of "pilgrimage" for his fans, but also for the simple enthusiasts of Formula 1 in general. 
+\n\n
+The monument is represented by a bronze statue that depicts Ayrton, two meters high, and realized by the artist Stefano Pierotti from Pietrasanta (Lucca Province); it was inaugurated on 26 April 1997.
+</string>
+
+    <string name="imola2">In this place, since 20 years ago, his fans and admirers come to say hello to their idol and leave in addition to the heart, many flowers, messages and other memories. 
+\n\n
+On the monument is engraved a sentence of Ayrton Senna that can make us think: 
+\n\n
+“I think I\'m very far from a way of life that I would like to live”.. </string>
+
+<string name="inbox1">-In the section "Ayrton, the driver" you will find some information about the racing career of Ayrton. I have included the results of all the races he played from 1985 to 1994 dividing them for each World Championship. You can find numbers, curiosities and some crucial moments about his career. Finally, there is a sub-section dedicated to the San Marino Grand Prix of 1994, where Ayrton lost his life. 
+\n\n
+-In the section "Beco, the man"(Ayrton was so called by his family and his friends) you will discover who Ayrton was out from races. I can\'t explain what you can find here: take a look, and discover with your eyes this special person. 
+\n\n
+-In the section "Remembering Ayrton" there are all the "tributes" that took place since 1994 to commemorate the driver. 
+\n\n
+-In the section"Ayrton and me" i have included my opinion about Ayrton and my trip to Imola for the event "ImolAyrton". 
+\n\n
+Lastly, I would like to report a text written by Giorgio Terruzzi from the tv-show "Record", which I think is very nice:</string>
+
+<string name="inbox2">"Everyone has a personal idea about what is remained of Ayrton Senna: his helmet that goes and goes, a gesture of his arm, of his hand, a mark on the asphalt, the sound of his voice. There still be an intensity, because he was always intense, so much to die like that in front of everyone when we were convinced that, mainly by him, he was fine, clever, and so perfect to seem invulnerable. He was an extroverted man, crossed by feelings and by the talent, which bounced inside him as a kind of magic for coming back among us, until the last, until his end, his public end, for this so hardly unforgettable. 
+\n\n
+He has been a lucky boy, even if rarely happy, as if his riches forced him to do something, to give back something special continuously, as he had a duty, an atonement, and maybe this is why he showed a furor that no victory, no record, could ever extinguish. He flaunted a not paid account with himself, even if it seemed to be charged to the others, to who wanted to defeat him, to who hindered his goals, a secret thirst. 
+\n\n
+Lightnings had a queue of shadow visible like the wake of a comet, they contained a formidable uniqueness and offered a compendium of tenderness to the violence of the race, of the noise, of the speed. Even if in an unexpectedly way, Ayrton is survived: he took a breath and gave up his battle and then, suddenly, you could find him there, in a truce that still makes you want to talk with him, to call him, to be next to him, below a pergola, by drinking a cold beer, a lemonade, in order to recover a precious time that now is gone away. 
+\n\n
+Ayrton Senna is died ten years ago, on May 1, 1994, when he was 34 years old; now we remember him with the melancholy that follows us, with his pride that now is ours. A documentary produced in collaboration with the foundation that bears his name, which has become a decisive reality in this decade for thousands of Brazilian children. 
+\n\n
+There are words which can explain who he was and how, there are precious and touching testimonials, there is Ayrton, with his intense phrases he said to give a sense to reality, which made us feel close, because we could understand it; it was something good that now still resists, that compresses the time and holds back it, if as we had just said goodbye. 
+\n\n
+Hey, goodbye, see you soon; surely we’ll meet again, now, tomorrow, in a while..." </string>
+
+<string name="ioeayrton1">According to my age (in 1994 I was 3 years old) I didn’t live "directly" the career of Ayrton Senna; however, I have known his story by reading textbooks and information on the internet. 
+\n\n
+I consider myself a very curious person, so I didn’t read only some words in front of a screen, but I also collected some testimonials from people who have had an important role in the life of Ayrton; I am honest, the thing that leaves me still amazed is the look or the emotion evident in the faces of these people when we talk about him, even at a distance of twenty years after his death.
+\n\n
+I firmly believe that Ayrton was not just a pilot; and i don\'t say it because it was a champion or because it was number one. I say this because Ayrton was a man, a boy who had exhibited the ability to stop himself and listen to what he had around. He knowed leave to the people who were close to him something, a spark, a little light; the same light that, after twenty years of distance, makes us remember him with a smile. He could feel the emotions, both positive and negative. 
+\n\n
+I find this last thing very important: often, in our life, we tend to run, run and run … but to go where? 
+\n\n
+Beco knew how to stop himself. </string>
+
+<string name="massimo1">A singular story is that which binds Ayrton to Massimo, a young boy fallen into deep coma after an accident on a motorbike. 
+The champion goes to the hospital to see the boy in his spare time, during the Grand Prix of Imola; he has also recorded on a tape a message of encouragement for Massimo, which the parents make often listen to him. 
+\n\n
+It\'s a very touching story, and I think that this article written by the Italian journalist Andrea Chiarini for the daily “Messaggero” on May 4, 1994 really expresses the humility and the great heart of Ayrton. 
+\n\n
+At the following, the article in integral version: </string>
+<string name="massimo2">Wake up, i\'m Ayrton
+                \n\n
+"Senna died, the struggle continues for Massimo in a room of the intensive care unit of in the hospital in Imola. The TV is on in front of the bed where from four years lives a boy of 22 years. Guilty of a traffic accident, just a few steps from the hospital. The Senna\'s secret is there, one of those secrets that fill your heart with tenderness. 
+Massimo weeps in front of the dramatic scenes of the accident, cries silently, because he can only do this, he cannot speak, cannot move, and is assisted by her mother and 70 Red Cross volunteers who take turns continuously. Massimo weeps by rethinking of Ayrton, his voice he knows so well: a message of hope, recorded on tape, which helped him to get out coma - according to the therapy practiced before in the United States and then in use in Italy - a month after the accident. 
+Four years ago Senna, at Imola, was in pole position: a family friend can contact the Brazilian champion, thanks to the help of some journalists. 
+"Massimo is your big fan, please send him an augury" . Senna agrees, on one condition: this story must remain far from photographers and onlookers; the promise, in all these years, will be kept. 
+The words of Senna in original language: 
+"Ciao Massimo, sono Ayrton Senna, il pilota di Formula 1. Cerca di ascoltarmi se puoi, devi reagire, alzarti, ti devi fare forza perch\é qui tutti ti vogliono bene e ti aspettano a Imola per le prove. Speriamo che tu guarisca presto, ciao ti saluto " 
+\n\n
+Two years go by, Senna is on the podium at Imola, is third, then runs secretly in the hospital. A visit full of emotions, words, intense looks and the joy on the face of the boy lying on the bed. 
+"Yes, sometimes I\'m afraid, but the desire to run is stronger" , the Brazilian whispers softly. 
+\n\n
+Even Sunday Massimo is in front of the TV, as in occasion of every Formula 1 race, by following Senna, his friend, but sees him crashing on the wall, bow his head forward, then the blood on the track and the helicopter that takes him away forever. 
+\n\n
+He closes his eyes for a moment; condemned to live locked up in the hospital, Massimo will continue his battle with no more hope to see Ayrton. But the will listen to his voice, as before."
+\n\n
+The original message recorded by Ayrton was made public only after his death, the video below:</string>
+
+<string name="perfectlap">Monaco 1988: during qualifying Ayrton realizes a lap called by him "special”; he describes his experience as the deepest of his life. He is in a tunnel and goes on, as driven by something or someone higher... 
+\n\n
+Enjoy it: </string>
+
+<string name="remember1">It\'s always the McLaren, the team with which Ayrton touches perfection, to give us another tribute: this time, we have the opportunity to leave our thinking about Ayrton, in first person.
+\n\n
+Just click on the image below: 
+</string>
+
+<string name="remember2">Specify your location, and write your thoughts about the champion. You can even attach images and it does not require any registration. 
+\n\n
+I have already written down my thoughts for Ayrton. And you ?? :) </string>
+
+ <string name="scherzi1">The pilot closer to Ayrton, better able to understand his character, is Gerhard Berger, mate of Senna at McLaren from 1990 to 1992. Intelligent and affectionate, he becomes a true friend of Ayrton and memorable are his jokes made to him, below some found around the net. 
+\n\n
+One day, in Monza, Berger throws the new suitcase of Ayrton from a helicopter in flight, and being made up of carbon fiber, according to the Brazilian, it would have to be indestructible. The suitcase is found intact near the circuit of Brianza. 
+\n\n
+On another occasion, in a room of an Australian hotel, Berger filled the bed of Ayrton with animals. Ayrton rebukes enraged his mate saying: 
+\n\n
+"I have spent the last 12 hours to catch frogs in my room!" 
+\n\n
+Berger replies: 
+\n\n
+"Did you find the snake?" 
+\n\n
+The same Berger then explaines: 
+\n\n
+"There were frogs, were larger, more like toads. In Australia they have this kind of animals. I thought that he would like animals, but clearly it was not so." 
+\n\n
+The accident transforms in a desire for retaliation for Senna: the Brazilian put a form of French cheese (with overwhelming smell) in Berger\'s room. </string>
+
+<string name="scherzi2">On another occasion, Senna and his compatriot Mauricio Gugelmin decide to fill the shoes of Berger with shaving foam, while they are all together in traveling on a fast train in Japan, to go to a dinner party. This forces Berger to present himself at the appointment with sneakers matched to dinner jacket, and the Austrian promises his revenge. A few days later, at the Japanese Grand Prix, Mauricio is approached by Joseph Gugelmin Leberer, the nutritionist of the McLaren team, who offers him fresh orange juice. Suspicious, Mauricio declines the offer, saying then: 
+\n\n
+"An hour before the race he had crushed four sleeping pills into the juice that sent me. The cars would roar on the track and I would have stayed to snore in my car, Can you imagine? " 
+\n\n
+Best known is probably an incident in which Berger replaces the passport photo of Senna with what Ron Dennis describes as "the equivalent of male genital organs." The fame of Senna allows him to see rarely his passport confiscated, but in a subsequent trip in Argentina, the joke of Berger costs at Senna the imprisonment for 24 hours. As a result, Senna pastes with a glue all credit cards of Berger together. 
+</string>
+
+<string name="scherzi3">Ron Dennis, the boss, is the victim of a prank by Gerhard. One year, in Monza, Dennis returns to his hotel room in the luxurious five-star Hotel Villa d\'Este, to discover that it has been plastered with pornographic images. "Needless to say, when one of our group was back in his room that night he found nothing, really. "No furniture, no clothes, nothing," - remembers Ron Dennis - "I remember the laughter and the fun. It was something of childish, but at the same time it helped to maintain a very good climate within the team."
+</string>
+
+    <string name="sennaprost1">It rains at the Monaco Grand Prix on June 3 1984. According to the qualifications Alain Prost, at the fifth season in F1, is in pole position followed by Mansell, Arnoux, Alboreto, Warwick, Tambay, De Cesaris, Lauda, Piquet and Rosberg. 
+\n\n
+The race begins 45 minutes after the expected time because of adverse weather conditions. At the start the French driver maintains the command, followed by Mansell and Arnoux; the latter dabs Warwick at the St. Devote curve, who comes up against barriers, so he must retire. Patrese and De Angelis are forced to stop. Two laps after the ascent of Beaurivage, Lauda overtakes the Ferrari of Arnoux while, from the back, the young Ayrton Senna drives as fast as the former with his Toleman. </string>
+
+<string name="sennaprost2">At lap 16, Mansell loses control of his Lotus and hits the guardrail, due to an aquaplaning in the middle of the "Beaurivage"; meanwhile, Senna surpasses first Rosberg and then Arnoux, thus beginning to presson Niki Lauda that he overtakes at lap 19, in the final straight, by taking the second position. 
+\n\n
+The rain is getting stronger and during the 29th lap Prost shakes his hand to ask to suspend the race: the French is a good calculator and he understands that it would be better to stop here. At lap 32, Senna is at just 2 seconds behind Prost when the race director Jacky Ickx shows the red flag; while Prost lifts off the accelerator, Ayrton exults as if he had won the first place. Race over, Prost wins ahead of Senna; it\'s just the beginning of an epic battle. </string>
+
+    <string name="sennaprost3">In the biennium 1985-1986 Prost is very strong and scores a splendid double in the world championship that catapults him to the Olympus of motoring. Ayrton, for its part, after passing from Toleman to the more competitive Lotus starts winning the first few races. The first victory is in 1985, at the Portuguese GP: pole position, fastest lap and splendid victory in the beloved rain. But for the Brazilian the time was not yet ripe.
+\n\n
+In 1988 Ayrton passes to McLaren, the same team of Alain, and into the Grand Prix of Portugal it happens the first disagreement among them: the Brazilian, while he duels with Prost for the first position, brings his teammate against the wall; the French accuses Ayrton of having made a dangerous thing, even if he manages to win the race. 
+The world championship will be won by Ayrton Senna. </string>
+
+    <string name="sennaprost4">Their situation degenerates in 1989: on April 22, Ayrton wins the fifth consecutive pole in five years on the Imola circuit. When the race starts, Berger\'s car catches fire: the pilot comes out unscathed, but it\'s all to be redone. 
+Before the second start, during a summit in the McLaren\'s box, the air could be cutted with a knife: the agreement among two drivers is that none of them can overtake the other in the first lap. 
+At the second start, Prost goes better than Ayrton; the latter doesn\'t respect their pact and overtakes Prost at the Tosa. On the podium the professor is furious, but the worst is yet to come. 
+\n\n
+At the end of the season in Japan, at the Suzuka circuit, Prost is on top of the championship and Senna is determined to fight to the last; the professor must necessarily win to close mathematically the world championship in his favor, and Ayrton must fight to leave open the world\'s title. </string>
+
+
+<string name="sennaprost5">The Brazilian, despite the pole obtained with a gap of over a second and a half from the French, is not unable to obtain first place, leaving the command the race to Prost. On the 46th lap Senna attacks Prost at the chicane of the triangle: the two collide and end up in the gravel. They both throw a look of hatred to the other: it seems that the French closed the trajectory for Ayrton, without giving him any chances of overtaking. 
+\n\n
+Prost, now sure of winning the world championship, gets out of his car while Ayrton, helped by the marshals, returns in the lead. The car of the Brazilian is damaged and needs a pit-stop; so Alessandro Nannini passes in first position. Ayrton starts from the pits and miraculously manages to recover the Italian: he overtakes Nannini in the Casio chicane during the 51st passage and goes on to win. Then he lifts the helmet visor and cries.
+\n\n
+The awards arrive slowly, as the crowd acclaims the Paulist. The FIA president of the time, Jean Marie Balestre (who is French as Prost), votes for the disqualification of Ayrton: the on-track by the escape of the chicane is considered extremely dangerous. The victory is assigned to Nannini and thanks to this result Prost becomes mathematically World Champion for the third time in his career. 
+\n\n
+Ayrton is disqualified and fined of one hundred thousand dollars for have criticizing the federation. He is unleashed in a public statement with these words:
+\n\n
+"I was blamed for everything and I was penalized for everything. I was treated like a criminal and this is totally unacceptable " 
+\n\n
+He\'s also deprived of pilot\'s superlicense, with the requirement of an official apology. Excuses that will never arrive from the Brazilian, who conversely is determined to take his revenge. 
+\n\n
+Destiny sometimes has a strange sense of humor: a year later, in 1990, the two drivers find themselves in Suzuka, but with reversed roles. Prost must win the race if he wants to keep the world championship open, while Ayrton needs a retreat of the French to be crowned world champion Formula one for the second time. During the conference between the pilots and the federation the air is heavy. Balestre, at the request of Nelson Piquet, decides that any cuts of chicane will not be punished as that happened the previous year. Ayrton leaves the conference; the tension increases. 
+\n\n
+At the first corner, however, the unbelievable happens: Ayrton hits the French on the inside and the two end up on the sand. The Brazilian is the new world champion. Only after a year, with a cool head, admits his act justifying it as a repair to wrongly received the year before. At the end of the championship he says: 
+\n\n
+"Races are like this, sometimes they end up at the first corner, sometimes with six laps to go ..."
+\n\n 
+In 1991 Prost ends a winless season due to technical problems of the Ferrari, while Senna, with the McLaren, is the protagonist of a formidable season that crowns him the world champion for the third time with 96 points. </string>
+
+    <string name="sennaprost6">
+In 1992 the French leaves the F1 (because of a declaration concerning the performance of the Ferrari) and takes a year off before returning in 1993, in his last season in the circus, on the powerful Williams. 
+\n\n
+Australia 1993: the epilogue. Senna rips his fifth victory of the season by winning the Grand Prix in Adelaide, but Prost wins the championship. On the podium 
+Ayrton raises the arm of the enemy Alain: they never spoke each other for almost four years. 
+    </string>
+
+<string name="sennaprost7">April 29, 1994, free practice of the Grand Prix of San Marino, two days before the death of Ayrton Senna: Prost, as a TV speaker, goes into William box for a greeting. Ayrton, who is on track for a practice session, is warned of the visit by radio, and before making a technical comment on the state of the track, he exclaims: 
+\n\n
+"Greetings to my dear friend ... Hey Alain, Alain, I miss you." 
+\n\n
+The last spark of magic by the Brazilian, as if he had been aware that this was the last time he would talk with Alain.
+</string>
+
+    <string name="bio1">Ayrton Senna da Silva was born on March 21st 1960, in the district of Santana (north of St. Paul), as second son of F. Neide Senna and Milton da Silva; his father, owner of several hectares of land, leads an agricultural activity which guarantees to his family a higher lifestyle than that of Brazilian families. 
+\n\n
+In a country devastated by social and economic problems, Beco (Ayrton was so called by his family and his friends), always remembers the love and the affection received from his family, which are important for his human and sporting development. He will always be very close to his parents, his brother Leonardo and his sister Viviane (who will bring forward Ayrton’s foundation project after his death). 
+\n\n
+Milton, in his garage, builds a small go-kart that Ayrton starts to drive at the age of four years. He learns the art of being mechanic and pilot: many of his victories are due to adolescent deep knowledge of kart functions. 
+His debut comes in an official match in 1973 on Interlagos circuit: first place in his first race. 
+He runs wearing a yellow helmet painted by Sid Mosca, characterized by a green stripe and a blue band, thus forming the Brazilian flag, symbol of his country and his people. </string>
+
+<string name="bio2">His father understands the potential of his young son and so he decides to entrust him to Lucio Pascual, called "Tche", the best coach available, who remembers Ayrton: 
+\n\n
+"He watches every detail, never would tolerate a scratched wheel or other such things." 
+\n\n
+At only 17 years old, Ayrton wins his first international title. 
+\n\n
+The next step in the international arena is the participation in the world championship of 1978 at Le Mans in France. In the first test on the circuit of Parma-San Pancrazio with Parilla brothers, owners of the famous engine DAP, Ayrton is faster than Terry Fullerton, DAP official driver and world champion in 1973. It’s just the beginning of a long and loyal relationship with Parilla brothers for Ayrton by signing a contract as second pilot, even if he was never able to win the world title of the category in his career with go-karts. 
+\n\n
+Ayrton understands that to become a Formula One driver he has to leave Brazil, his family, his friends and move in the home of motoring: England. He choices the Formula Ford category, which is exceptional for putting all riders, who use the same engine, on the same level. 
+He wins the British Championship and the European EFDA gaining 21 victories, 15 poles and 22 fastest laps out of 29 races.</string>
+
+<string name="bio3">In 1983 he attends the British F3 Championship by driving a Ralt-Toyota : he conquers 12 victories, 15 poles and 13 fastest laps out of 20 races. At the end of the season Ayrton takes part in the prestigious international competition F3 Macau containing a comparison of all the best drivers of the category: he starts from pole, dominated both heats and marks the fastest lap. 
+In this year he decides to take his mother\'s surname Senna instead of the paternal Da Silva used in the previous years. </string>
+
+<string name="bio4">During 1983 Senna plays the first tests on Formula 1 cars. He spends a day of testing with the Williams FW08C granted from Frank Williams in a session organized by the McLaren at Silverstone. 
+In June, Senna already holds close contacts with Bernie Ecclestone, owner of Brabham, which finds in the Brazilian\'s profile the ideal replacing of Riccardo Patrese. 
+By the way, his engagement is blocked by Parmalat, the main sponsor of the team, which wants an Italian rider as second driver. 
+Then Senna has to marry Toleman, strongly backed by Alex Hawkridge who offered him a contract worth £ 100,000. 
+\n\n
+It’s in the 1984 when the doors of Formula 1 are finally opened for him ...</string>
+
+    <string name="twit1">On August 25, 2014, Twitter decides to inaugurate, together with the foundation Ayrton Senna, a profile dedicated to the memory of the champion. 
+The choice of August 25 is not accidental: in that day, in 1991, Senna wins for the fifth time the Grand Prix of Belgium. He’s the last pilot, after Jim Clark, to thread a poker at Spa-Francorchamps.
+\n\n
+Here the link of the profile:  </string>
+
+    <string name="sky1">From May 1 to May 4, 2014 Sky has devoted a special 24h on 24 to Ayrton Senna. interviews and unpublished images, broadcast on Sky Sports F1 (channel 206). 
+I quote here some of the episodes broadcast with links to Youtube video:
+\n\n
+Senna Week Intro: The principal video about Senna\'s week.</string>
+<string name="sky2">Prost On Senna: Alain Prost talks about his experience of opponent against the Brazilian champion.</string>
+<string name="sky3">Teds Senna Notebook: The McLaren mp4/4.</string>
+<string name="sky4">Driver remeber Senna: i piloti della F1 2014 ricordano Ayrton.</string>
+    <string name="sky5">A winning partnership: Ron Dennis talks about his years with Ayrton.
+</string>
+    <string name="sky6">Remembering Ratzenberger: Remembering Roland Ratzenberger.</string>
+</resources>
